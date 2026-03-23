@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Luis Guerra
 
-**Senior Software Engineer | Full Stack, Mobile & IoT/AI Solutions Architect**
-
 <p align="center">
-  <img src="image_1.jpeg" alt="Luis Guerra - Senior Software Engineer | Code Workspace" width="100%" />
+  <img src="image_1.jpeg" alt="Luis Guerra - Senior Software Engineer workspace banner" width="100%" />
 </p>
+
+**Senior Software Engineer | Full Stack, Mobile & IoT/AI Solutions Architect**
 
 Senior engineer with **10+ years of experience** building scalable **web, mobile, cloud and IoT platforms** across enterprise and startup environments.  
 Focused on delivering reliable, production-ready systems that generate real business value.
