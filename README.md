@@ -64,4 +64,4 @@ University of Computer Sciences (UCI), Cuba
 
 ## GitHub stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisGuerra89)](https://git.io/streak-stats) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LuisGuerra89&theme=dark&card_width=800)](https://git.io/streak-stats)
