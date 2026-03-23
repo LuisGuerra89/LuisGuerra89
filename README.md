@@ -2,7 +2,9 @@
 
 **Senior Software Engineer | Full Stack, Mobile & IoT/AI Solutions Architect**
 
-![Luis Guerra - Senior Software Engineer | Code Workspace](image_1.jpeg)
+<p align="center">
+  <img src="image_1.jpeg" alt="Luis Guerra - Senior Software Engineer | Code Workspace" width="100%" />
+</p>
 
 Senior engineer with **10+ years of experience** building scalable **web, mobile, cloud and IoT platforms** across enterprise and startup environments.  
 Focused on delivering reliable, production-ready systems that generate real business value.
