@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Luis Guerra
 
-**Senior Software Engineer | Full Stack & Mobile | React, Node.js, .NET, Flutter | IoT & AI Solutions**
+**Senior Software Engineer | Full Stack, Mobile & IoT/AI Solutions Architect**
+
+![Luis Guerra - Senior Software Engineer | Code Workspace](image_1.jpeg)
 
 Senior engineer with **10+ years of experience** building scalable **web, mobile, cloud and IoT platforms** across enterprise and startup environments.  
 Focused on delivering reliable, production-ready systems that generate real business value.
